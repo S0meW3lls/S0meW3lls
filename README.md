@@ -6,41 +6,7 @@
   <i>25 years old — Based in Europe</i>
 </p>
 
----
-
-### 💼 About Me
-
-- 🔧 Full Stack Engineer with a strong focus on backend architecture and frontend interactivity
-- 🏢 Currently working at **WSB Group**
-- 🧠 Constantly learning and exploring modern technologies
-
----
-
-### 🧰 My Tech Stack
-
-#### 👨‍💻 Backend
-- PHP
-- Laravel
-
-#### 🗃️ Databases
-- MySQL
-- SQL Server
-- MongoDB
-
-#### 🎨 Frontend
-- JavaScript
-- Vue.js
-- Nuxt.js
-
-#### 🔌 Data Integration / Automation
-- Java
-- Python
-
----
-
-### 📫 Contact Me
-
-<p align="left">
+<p align="center">
   <a href="mailto:samueldeguio@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -51,8 +17,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💼 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=S0meW3lls&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+- 🔧 Full Stack Engineer with a strong focus on backend architecture and frontend interactivity
+- 🏢 Currently working at **WSB Group**
+- 🧠 Constantly learning and exploring modern technologies
+
+
+### 🛠️ Tech Stack
+
+**Backend:**  
+`PHP`, `Laravel`
+
+**Databases:**  
+`MySQL`, `SQL Server`, `MongoDB`
+
+**Frontend:**  
+`JavaScript`, `Vue.js`, `Nuxt.js`
+
+**Data Integration / Scripting:**  
+`Java`, `Python`
